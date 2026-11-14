@@ -1,0 +1,9 @@
+-r requirements.txt
+
+# GraphAE and PING.
+torch-geometric>=2.5,<3
+
+# Interactive experiment notebooks and optional spreadsheet export.
+jupyterlab>=4,<5
+seaborn>=0.13,<1
+openpyxl>=3.1,<4
