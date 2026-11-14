@@ -1,11 +1,4 @@
-
-
-Research code for **Physics-Guided Detection and Topology-Calibrated
-Measurement-Channel Localization of False Data Injection Attacks in Smart Grids**.
-
-本仓库提供上述论文的研究代码，用于智能电网虚假数据注入
-（False Data Injection，FDI）攻击的检测与量测通道定位。
-文档和实验入口按照论文的叙述顺序组织，主要方法为 **PGAE-tau** 与 **TopoLoc-ConvAE**。
+**Physics-Guided Detection and Topology-Calibrated Measurement-Channel Localization of False Data Injection Attacks in Smart Grids**.
 
 The repository includes model implementations, experiment notebooks, and a
 synthetic CPU smoke test. Prepare training data using the [data guide](docs/DATA.md);
