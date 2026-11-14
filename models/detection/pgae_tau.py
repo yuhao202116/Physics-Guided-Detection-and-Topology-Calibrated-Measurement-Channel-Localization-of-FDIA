@@ -67,7 +67,7 @@ class TimeCompressor(nn.Module):
             input_size=input_dim,
             hidden_size=hidden_dim,
             batch_first=True,
-            bidirectional=True,
+            bidirectional=False,
             dropout=0.0
         )
         self.out_dim = hidden_dim * 2
