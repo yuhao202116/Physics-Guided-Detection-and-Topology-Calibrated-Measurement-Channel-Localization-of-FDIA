@@ -1,4 +1,4 @@
-**Physics-Guided Detection and Topology-Calibrated Measurement-Channel Localization of False Data Injection Attacks in Smart Grids**.
+*Physics-Guided Detection and Topology-Calibrated Measurement-Channel Localization of False Data Injection Attacks in Smart Grids*.
 
 The repository includes model implementations, experiment notebooks, and a
 synthetic CPU smoke test. Prepare training data using the [data guide](docs/DATA.md);
