@@ -1,4 +1,4 @@
-# PGAE-tau
+
 
 Research code for **Physics-Guided Detection and Topology-Calibrated
 Measurement-Channel Localization of False Data Injection Attacks in Smart Grids**.
